@@ -1,0 +1,1 @@
+JSON_DATA_PATH = 'Data/data.json'

@@ -1,0 +1,24 @@
+{
+    "digikala.com" : {
+        "discount": "12345a",
+        "description": "bla bla bla bla bla"
+    },
+    "aftabrayaneh.com": {
+        "discount": "B324_A",
+        "description": "buy somthing with dicount code WOW"
+    },
+    "digistyle.com": {
+        "discount": "0011*",
+        "description": "digistyle is good for clothes"
+    },
+    "snappfood.ir": {
+        "discount": "12o+",
+        "description": "برای اولین خرید این کد تخفیف قابل استفده است."
+    },
+    "filimo.school": {
+        "discount": "12moffch",
+        "description": "کد تخفیف 60% غیراول اشتراک برنامه فیلیمو مدرسه"
+    }
+    
+
+}
